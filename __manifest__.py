@@ -1,6 +1,6 @@
 {
     'name': 'Kitchen Display System (Custom KDS)',
-    'version': '19.0.1.0.0.',
+    'version': '20.0.1.0.0.',
     'category': 'Point of Sale',
     'summary': 'Kitchen Display / Preparation Display for Odoo Community',
     'description': """
